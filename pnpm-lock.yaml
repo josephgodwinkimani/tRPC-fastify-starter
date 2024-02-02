@@ -6,11 +6,11 @@ settings:
 
 dependencies:
   '@trpc/client':
-    specifier: 11.0.0-next-beta.257
-    version: 11.0.0-next-beta.257(@trpc/server@11.0.0-next-beta.257)
+    specifier: 11.0.0-next.91
+    version: 11.0.0-next.91(@trpc/server@11.0.0-next.91)
   '@trpc/server':
-    specifier: 11.0.0-next-beta.257
-    version: 11.0.0-next-beta.257
+    specifier: 11.0.0-next.91
+    version: 11.0.0-next.91
   dotenv:
     specifier: ^16.4.1
     version: 16.4.1
@@ -1250,16 +1250,16 @@ packages:
       '@sinonjs/commons': 3.0.1
     dev: true
 
-  /@trpc/client@11.0.0-next-beta.257(@trpc/server@11.0.0-next-beta.257):
-    resolution: {integrity: sha512-kjDDmS2U5RTDR1CS/XNeTLKpxVO+SygtIkjYGez9RH1AVZcNLIpFR4uzgyGyAc7VX347I9bBFXZ3+0uf7oDC3Q==}
+  /@trpc/client@11.0.0-next.91(@trpc/server@11.0.0-next.91):
+    resolution: {integrity: sha512-osDGhZnrEMrWSfRcEyjX3/a2laB1kQ/cX2tkROlZzUrDknjV0DKk7D3aSUdn9AWZEkGSESeWa+Gepjv1jf9KGQ==}
     peerDependencies:
-      '@trpc/server': 11.0.0-next-beta.257+d61ece329
+      '@trpc/server': 11.0.0-next.91+ca021e61
     dependencies:
-      '@trpc/server': 11.0.0-next-beta.257
+      '@trpc/server': 11.0.0-next.91
     dev: false
 
-  /@trpc/server@11.0.0-next-beta.257:
-    resolution: {integrity: sha512-PxuB6vRRjKWFR/8MvSQgS2cXq1amL97leKLnXYsY4Rp0dscT87vrP9c3+cbVXQOoPxnp3kma3Kr46x7tb3OfrQ==}
+  /@trpc/server@11.0.0-next.91:
+    resolution: {integrity: sha512-8ETKhCPaY6QZS2kTio6Vg+lIesqDmnH5dVvQaEJ+oez/xSa7a+tmfhea4Y2yanGd74QOUPFrX2jAqM5pR2J/qw==}
     dev: false
 
   /@tsconfig/node10@1.0.9:
