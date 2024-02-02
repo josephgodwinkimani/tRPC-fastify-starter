@@ -1,0 +1,27 @@
+{"level":30,"time":1706901975894,"pid":12024,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706901975902,"pid":12024,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://127.0.0.1:2000"}
+{"level":30,"time":1706902009815,"pid":13624,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902009820,"pid":13624,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://127.0.0.1:2000"}
+{"level":30,"time":1706902009841,"pid":13624,"hostname":"DESKTOP-1J1M7KH","msg":"⚡ Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902089181,"pid":9356,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902089187,"pid":9356,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://127.0.0.1:2000"}
+{"level":30,"time":1706902179825,"pid":10960,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902179826,"pid":10960,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902291845,"pid":5444,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902291852,"pid":5444,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://127.0.0.1:2000"}
+{"level":30,"time":1706902740612,"pid":11100,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902791766,"pid":12652,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902882123,"pid":12716,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706902996503,"pid":13784,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706903112192,"pid":3728,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706903151715,"pid":8980,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706903151721,"pid":8980,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://127.0.0.1:2000"}
+{"level":30,"time":1706903395628,"pid":960,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://[::1]:2000"}
+{"level":30,"time":1706903395659,"pid":960,"hostname":"DESKTOP-1J1M7KH","msg":"Server listening at http://127.0.0.1:2000"}
+{"level":30,"time":1706903395660,"pid":960,"hostname":"DESKTOP-1J1M7KH","msg":"⚡ Server listening at http://[::1]:2000"}
+{"level":30,"time":1706903401164,"pid":960,"hostname":"DESKTOP-1J1M7KH","reqId":"req-1","req":{"method":"GET","url":"/v1/userById?input=1","hostname":"localhost:2000","remoteAddress":"::1","remotePort":56868},"msg":"incoming request"}
+{"level":30,"time":1706903401203,"pid":960,"hostname":"DESKTOP-1J1M7KH","reqId":"req-1","res":{"statusCode":200},"responseTime":37.58559999987483,"msg":"request completed"}
+{"level":30,"time":1706903405178,"pid":960,"hostname":"DESKTOP-1J1M7KH","reqId":"req-2","req":{"method":"GET","url":"/v1/userById?input=1","hostname":"localhost:2000","remoteAddress":"::1","remotePort":56868},"msg":"incoming request"}
+{"level":30,"time":1706903405182,"pid":960,"hostname":"DESKTOP-1J1M7KH","reqId":"req-2","res":{"statusCode":200},"responseTime":4.271000001579523,"msg":"request completed"}
+{"level":30,"time":1706903409962,"pid":960,"hostname":"DESKTOP-1J1M7KH","reqId":"req-3","req":{"method":"GET","url":"/v1/greeting","hostname":"localhost:2000","remoteAddress":"::1","remotePort":56868},"msg":"incoming request"}
+{"level":30,"time":1706903409963,"pid":960,"hostname":"DESKTOP-1J1M7KH","reqId":"req-3","res":{"statusCode":200},"responseTime":0.8195999972522259,"msg":"request completed"}

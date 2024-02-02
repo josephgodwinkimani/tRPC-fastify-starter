@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706899577924,
+      "tag": "0000_lucky_betty_ross",
+      "breakpoints": true
+    }
+  ]
+}
